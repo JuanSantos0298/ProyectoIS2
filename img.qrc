@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/park_b.png</file>
+        <file>img/park_w.png</file>
+        <file>img/cita_w.png</file>
+        <file>img/cita.png</file>
+        <file>img/calendar.png</file>
+        <file>img/calendar_hover.png</file>
+        <file>img/modificar.png</file>
+        <file>img/modificar_hover.png</file>
+        <file>img/estadoCuenta.png</file>
+        <file>img/estadoCuenta_Hover.png</file>
+        <file>img/logout.png</file>
+        <file>img/logout_hover.png</file>
+    </qresource>
+</RCC>
